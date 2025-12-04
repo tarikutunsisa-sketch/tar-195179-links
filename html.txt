@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tariku T. - Links</title>
+<style>
+  body { font-family: Arial; text-align:center; background:#f0f4f8; padding:20px; }
+  h1 { color:#333; }
+  .links { display:flex; flex-direction:column; gap:15px; max-width:400px; margin:auto; }
+  a { text-decoration:none; padding:15px; border-radius:10px; background:#4CAF50; color:white; font-weight:bold; transition:0.3s; }
+  a:hover { background:#45a049; }
+</style>
+</head>
+<body>
+<h1>Tariku T. - tar.195179</h1>
+<div class="links">
+  <a href="https://example1.com" target="_blank">🌐 My Website</a>
+  <a href="https://example2.com" target="_blank">📄 Portfolio / Projects</a>
+  <a href="https://facebook.com/tar.195179" target="_blank">📰 Facebook Page</a>
+  <a href="https://instagram.com/tar.195179" target="_blank">📷 Instagram</a>
+  <a href="https://youtube.com/tar.195179" target="_blank">🎥 YouTube</a>
+</div>
+</body>
+</html>
